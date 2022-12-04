@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Juan pineda</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,;I'm+Juan+pineda)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer from colombia</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

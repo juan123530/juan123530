@@ -1,7 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7EA8D&background=000000EB&center=true&width=435&lines=Hi%2C+I'm+Juan+Pineda" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7EA8D&background=000000EB&center=true&width=435&lines=A+passionate+Developer+from+colombia" alt="Typing SVG" /></a>
-<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-pineda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-pineda/" height="30" width="40" /></a>
 </p>

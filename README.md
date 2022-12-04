@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Juan pineda</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,;I'm+Juan+pineda)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=4000&pause=1000&color=000000&background=B6B6B600&center=true&vCenter=true&width=435&lines=Hi+%2C+I'm+Juan+pineda" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate developer from colombia</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

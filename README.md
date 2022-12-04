@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7EA8D&background=000000EB&center=true&width=435&lines=Hi%2C+I'm+Juan+Pineda" alt="Typing SVG" /></a>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=35&pause=1000&color=F6F0ED&background=504A4FDA&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Juan+Pineda;A+passionate+Developer+from+colombia" alt="Typing SVG" /></a>
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-pineda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-pineda/" height="30" width="40" /></a>
 </p>

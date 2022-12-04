@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan pineda</h1>
+<h1 align="center">Hi , I'm Juan pineda</h1>
 <h3 align="center">A passionate developer from colombia</h3>
-
-- 🌱 I’m currently learning **Frameworks**
-
-- 💬 Ask me about **react, node js and express**
-
-- 📫 How to reach me **juan.dipi@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-pineda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-pineda/" height="30" width="40" /></a>

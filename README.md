@@ -2,9 +2,9 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=35&pause=1000&color=F6F0ED&background=504A4FDA&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Juan+Pineda;A+passionate+Developer+from+colombia" alt="Typing SVG" /></a>
-
+<div align="center">
 ![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

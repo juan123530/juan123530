@@ -48,7 +48,7 @@
 <!--11 github    -->
           <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
   
-  <!--12 c++    -->
-          <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></a>
+
+          <img href="https://reactnative.dev/" target="_blank" rel="noreferrer"src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
          
          </div>

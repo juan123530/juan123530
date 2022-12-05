@@ -20,7 +20,7 @@
                                                        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
                                                        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
                                                       
-                                                       </div>
+                                                      
                                                     
  <div style="display: flex; align-items: flex-start;">
                                                         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />

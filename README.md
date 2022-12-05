@@ -13,43 +13,40 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="left" style="display: flex; align-items: flex-start;">
-                                         
-                                                  
-   <!-- 1    html       -->
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>
-  <!-- 2    css      -->
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> 
-  
-  <!-- 3  bootsrtap         -->
-         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="65"/> </a> 
-
-<!-- 4    java       -->
-          <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </a> 
-
-<!--   5   javascript      -->
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </a>
-          
-<!-- 6 node      -->
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></a> 
-   
-<!--  7   express         -->
-          <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
-
-<!--  8  node        -->
-          <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </a> 
-          
-<!-- 9     python      -->
-          <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </a> 
-
-<!--  10  reactjs   -->
-          <a href="https://reactjs.org/"  target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
-
-<!--11 github    -->
-          <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></a>
-  
-
-          <img href="https://reactnative.dev/" target="_blank" rel="noreferrer"src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-         
-         
-</p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+                                                      
+                                                       
+                                                    </div>
+ <div style="display: flex; align-items: flex-start;">
+                                                        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+                                                    </div>
+                                                    
+<div style="display: flex; align-items: flex-start;">
+                                                        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+                                                    </div><div style="display: flex; align-items: flex-start;">
+                                                        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
+                                                        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+                                                    </div>
+</div>

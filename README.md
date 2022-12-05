@@ -13,7 +13,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p style="display: flex; align-items: flex-start;> 
+<!-- <p style="display: flex; align-items: flex-start;>  -->
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+                                                       <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+                                                      
+                                                       
+                                                    </div>
    <!-- 1    html       -->
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>
   <!-- 2    css      -->

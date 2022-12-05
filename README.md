@@ -13,8 +13,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="left">
-<div style="display: flex; align-items: flex-start;">                                          
+<p align="left" style="display: flex; align-items: flex-start;">
+                                         
                                                   
    <!-- 1    html       -->
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>
@@ -32,9 +32,7 @@
           
 <!-- 6 node      -->
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></a> 
-   </div>
-
- <div style="display: flex; align-items: flex-start;">
+   
 <!--  7   express         -->
           <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 
@@ -53,5 +51,5 @@
 
           <img href="https://reactnative.dev/" target="_blank" rel="noreferrer"src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
          
-         </div>
+         
 </p>

@@ -12,6 +12,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<p align="left">
 <div style="display: flex; align-items: flex-start;">                                          
                                                   
    <!-- 1    html       -->
@@ -52,3 +54,4 @@
           <img href="https://reactnative.dev/" target="_blank" rel="noreferrer"src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
          
          </div>
+</p>

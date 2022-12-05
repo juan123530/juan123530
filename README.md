@@ -2,9 +2,9 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=35&pause=1000&color=F6F0ED&background=504A4FDA&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Juan+Pineda;A+passionate+Developer+from+colombia" alt="Typing SVG" /></a>
-<div align="flex" >
+
 ![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p style="display: flex; align-items: flex-start;> 
    <!-- 1    html       -->
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>

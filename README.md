@@ -19,10 +19,11 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="65"/> </a> 
                                                        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
                                                        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-                                                       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+                                                       
                                                        
                                                                                                           
-<div style="display: flex; align-items: flex-start;"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<div style="display: flex; align-items: flex-start;"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+                                                      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
                                                       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a> 
                                                       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />

@@ -6,11 +6,9 @@
 a![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
 
 
-
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-diego-pineda/" target="blank" rel="noopener noreferrer> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-pineda/" height="50" width="50"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-pineda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-diego-pineda/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

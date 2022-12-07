@@ -1,7 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&weight=100&size=35&pause=1&color=F6F0ED&background=000000&vCenter=true&multiline=true&width=1120&height=355&lines=Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mi+experiencia+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+alcanzar+el+%C3%A9xito+juntos!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&background=000000&vCenter=true&multiline=true&width=900&height=250&lines=++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mi+experiencia+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+alcanzar+el+%C3%A9xito+juntos!" alt="Typing SVG" /></a>
 
 a![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
 

@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&background=000000&vCenter=true&multiline=true&width=860&height=270&lines=++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mis+conocimientos+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+%C3%A9xito+juntos!;+" alt="Typing SVG" /></a>
 
-a![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
+![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
 
 
 <h3 align="left">Connect with me:</h3>

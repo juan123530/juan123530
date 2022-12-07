@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <link rel="stylesheet" href="https://github.com/juan123530/juan123530/raw/main/pineda.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/juan123530/juan123530/main/pineda.css">
     
 </head>
 <body>
-    <div class="box ">
-        <div class="form">
+<!--     <div class="box ">
+        <div class="form"> -->
             <a class="form "href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&background=303b68&vCenter=true&multiline=true&width=860&height=270&lines=++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mis+conocimientos+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+%C3%A9xito+juntos!;+" alt="Typing SVG" /></a>        
         </div>
     </div>

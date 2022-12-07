@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="https://github.com/juan123530/juan123530/blob/main/pineda.css">
+    <link rel="stylesheet" type="text/css" href="pineda.css">
     
 </head>
 <body>

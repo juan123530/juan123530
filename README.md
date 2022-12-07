@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <link rel="stylesheet" href="https://github.com/juan123530/juan123530/blob/main/juan.css">
+    <link rel="stylesheet" href="https://github.dev/juan123530/juan123530/blob/main/juan.css">
     
 </head>
 <body>

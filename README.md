@@ -41,6 +41,15 @@
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a> 
                                                       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
                                                       
-                                                   
+     
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan123530)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan123530)](https://github.com/anuraghazra/github-readme-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan123530&show_icons=true&theme=radical)
 </body>
 </html>

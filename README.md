@@ -1,4 +1,11 @@
+> "La verdadera innovación a menudo viene de las pequeñas startups que son capaces de crear mercados"
+> Timm Martin
 ---
+```js
+function exito(disciplina, aprendizaje){
+   return disciplina + aprendizaje;
+}
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>

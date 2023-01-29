@@ -1,3 +1,4 @@
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,13 +7,11 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="pineda.css">
     
-</head>
+
 <body>
 <!--     <div class="box ">
         <div class="form"> -->
             <a class="form "href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&border-radius=8px&background=303b68&vCenter=true&padding=5px&multiline=true&width=860&height=270&lines=++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mis+conocimientos+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+%C3%A9xito+juntos!;+" alt="Typing SVG" /></a>        
-        </div>
-    </div>
 
 
 ![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
@@ -49,4 +48,5 @@
 
 
 </body>
+
 </html>

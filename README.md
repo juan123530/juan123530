@@ -2,9 +2,13 @@
 > Timm Martin
 ---
 ```js
-function exito(disciplina, aprendizaje){
+function successDev (disciplina, aprendizaje){
    return disciplina + aprendizaje;
-}
+  }
+ stack.prototype.successDev = function ('Javascript', 'HTML', 'CSS', 'Typescript'){
+   return const FrontEnd = {js:['React','NextJs']}, const BackEnd = {js:['Express', 'Node']},
+    && {DataBases:['MySql', 'Sequelize']};
+  }
 ```
 <body>
 <!--     <div class="box " style="display: grid>

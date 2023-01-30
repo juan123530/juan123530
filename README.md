@@ -11,8 +11,6 @@ function exito(disciplina, aprendizaje){
          <div class="form"> -->
          <a class="form "href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&border-radius=8px&background=303b68&vCenter=true&padding=5px&multiline=true&width=860&height=270&lines=++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mis+conocimientos+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+%C3%A9xito+juntos!;+" alt="Typing SVG" /></a>        
 
-
- 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/juan-diego-pineda/" target="_blank" rel="noopener ">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/juan-diego-pineda/" height="40" width="40" />

@@ -13,15 +13,14 @@ function successDev (disciplina, aprendizaje){
 <body>
 <!--     <div class="box " style="display: grid>
          <div class="form"> -->
-         <a class="form "href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&border-radius=8px&background=303b68&vCenter=true&padding=5px&multiline=true&width=860&height=270&lines=++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mis+conocimientos+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+%C3%A9xito+juntos!;+" alt="Typing SVG" /></a>        
+         <a class="form "href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=caveat&size=25&duration=3300&pause=1&color=F6F0ED&border-radius=8px&background=22272d&vCenter=true&padding=5px&multiline=true&width=860&height=270&lines=++++++Hola+y+Bienvenido+a+mi+perfil+en+Github.;+;+++Estare+encantado+de+contribuir+a+tu+proyecto%2C;Mis+conocimientos+y+habilidades+me+hacen+un+candidato+ideal%2C;Estoy+seguro+de+que+puedo+aportar+un+valor+significativo.;no+dudes+en+ponerte+en+contacto+conmigo.;%C2%A1Estoy+dispuesto+a+formar+parte+de+tu+proyecto+y+;lograr+%C3%A9xito+juntos!;+" alt="Typing SVG" /></a>        
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/juan-diego-pineda/" target="_blank" rel="noopener ">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/juan-diego-pineda/" height="40" width="40" />
 </a><br/>
-   <br/>
-
-   ![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
+  
+<!--    ![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)   -->
 <h3 align="center"> 💻 Tech Stack:</h3>
 
 <div style="display: flex" align="center">  
@@ -35,14 +34,10 @@ function successDev (disciplina, aprendizaje){
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> 
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> 
-    
+    <br/>
 </body>
 
+   <br/>
    
-   
-   
-
-
 ![](https://github-readme-stats.vercel.app/api?username=juan123530&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan123530&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-

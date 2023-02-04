@@ -18,12 +18,13 @@ function successDev (disciplina, aprendizaje){
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/juan-diego-pineda/" target="_blank" rel="noopener ">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/juan-diego-pineda/" height="40" width="40" />
-</a>
+</a><br/>
+   <br/>
 
    ![gifdevops](https://user-images.githubusercontent.com/117276310/205516382-b0d6df35-890a-4cf2-838f-c8db68cfecf9.gif)  
-<h3 align="center">My stack:</h3>
+<h3 align="center"> 💻 Tech Stack:</h3>
 
-<div style="display: flex">  
+<div style="display: flex" align="center">  
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/></a>
@@ -36,3 +37,12 @@ function successDev (disciplina, aprendizaje){
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> 
     
 </body>
+
+   
+   
+   
+
+
+![](https://github-readme-stats.vercel.app/api?username=juan123530&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan123530&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
